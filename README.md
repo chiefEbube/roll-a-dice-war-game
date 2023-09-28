@@ -2,4 +2,4 @@
   
   
 My personal practice with Object Oriented Programming using JavaScript.  
-Click [here](https://boredbotapp.netlify.app) to play in browser
+Click [here](https://rangerwar.netlify.app) to play in browser
